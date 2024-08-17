@@ -18,6 +18,7 @@ Computational Fluid Dynamics (CFD) 분석 및 최적화 관련 파일들이 이 
 - optimize_dxfV1
   - 수차의 CFD 결과 기반 토크 계산 및 최적화
   - 최적화 이후 Smoothing 코드
+  ![alt text](<Analysis Data and Code/Code and DXF/IMG/smoothing_animation_with_torque.gif>)
   - 분석 기반 DXF (Angleblock 단면 형상) 제작 코드
 - full, half, straight, straightWF : 각 날개의 최적화 DXF 형상
 
