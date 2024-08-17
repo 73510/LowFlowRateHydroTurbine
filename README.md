@@ -60,20 +60,20 @@ LowFlowHydroTurbine/
 ## 연구 결과 📈
 
 ### 한화 사이언스 챌린지 대상
-  <img src="./HSC2023 한화 사이언스 챌린지/Media/1043623_807593_562.jpg" width="300"/>
+  <img src="./HSC2023 한화 사이언스 챌린지/Media/1043623_807593_562.jpg" width="600"/>
 
-  <img src="./HSC2023 한화 사이언스 챌린지/Media/IMG_6537.gif" width="150"/><img src="./HSC2023 한화 사이언스 챌린지/Media/IMG_6538.gif" width="150"/>
+  <img src="./HSC2023 한화 사이언스 챌린지/Media/IMG_6537.gif" width="300"/><img src="./HSC2023 한화 사이언스 챌린지/Media/IMG_6538.gif" width="300"/>
 
 ### KSEF 은상
   
- <img src="./KSEF\Media\서울과고-조용우_1.jpg" width="300"/>
+ <img src="./KSEF\Media\서울과고-조용우_1.jpg" width="600"/>
 
 
- <img src="./KSEF/Media/image100.gif" width="150"/><img src="./KSEF/Media/image108.gif" width="150"/>
+ <img src="./KSEF/Media/image100.gif" width="300"/><img src="./KSEF/Media/image108.gif" width="300"/>
 
 ### 데이터 분석 결과
-<img src="./KSEF\Media/그림1.png" width="300"/>
-<img src="./KSEF\Media/그림2.png" width="300"/>
+<img src="./KSEF\Media/그림1.png" width="600"/>
+<img src="./KSEF\Media/그림2.png" width="600"/>
 
 ## 기여 및 문의 💌
 
