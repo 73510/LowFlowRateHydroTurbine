@@ -7,9 +7,8 @@
 
 1. [CFD 분석 데이터 (CFD Analysis Data)](#분석-데이터)
 2. [아두이노 코드 (Arduino)](#아두이노-코드)
-3. [CFD 최적화 (CFD Optimization)](#cfd-최적화)
-4. [설계 파일 (Design Files)](#설계-파일)
-5. [한화 사이언스 챌린지 제출 자료 (Files submitted to Hanwha Science Challenge)](#한화-사이언스-챌린지-제출-자료)
+3. [설계 파일 (Design Files)](#설계-파일)
+4. [한화 사이언스 챌린지 제출 자료 (Files submitted to Hanwha Science Challenge)](#한화-사이언스-챌린지-제출-자료)
 
 ## [CFD 분석 데이터](./Analysis%20Data%20and%20Code/)
 
