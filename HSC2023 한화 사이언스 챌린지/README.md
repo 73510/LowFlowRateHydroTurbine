@@ -39,9 +39,6 @@ CFD 실행 이후, 벽 계산기로 토크를 계산하는 과정 자동화
 - [어항 내 물의 흐름을 제어하는 코드 (단순 속도)](./Arduino/Motor_Control_SpeedControlOnly)
 - [어항 내 물의 흐름을 제어하며 유속과 수차의 회전 속도를 IR 센서로 측정하는 코드](./Arduino/Motor_Control_SpeedControlandTachometer)
 
-## CFD 최적화 코드
---자료 보충--
-
 ## [설계 파일](./설계/)
 
 수차와 관련 부품들의 3D 모델링 파일 및 설계도면이 이 섹션에 있습니다.
