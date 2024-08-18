@@ -18,9 +18,21 @@ Computational Fluid Dynamics (CFD) 분석 및 최적화 관련 파일들이 이 
 - optimize_dxfV1
   - 수차의 CFD 결과 기반 토크 계산 및 최적화
   - 최적화 이후 Smoothing 코드
-  ![alt text](<Analysis Data and Code/Code and DXF/IMG/smoothing_animation_with_torque.gif>)
+  <img src="./Analysis Data and Code/Code and DXF/IMG/smoothing_animation_with_torque.gif" width="600"/>
   - 분석 기반 DXF (Angleblock 단면 형상) 제작 코드
 - full, half, straight, straightWF : 각 날개의 최적화 DXF 형상
+
+- [**CFD automation**](./Analysis%20Data%20and%20Code/Code%20and%20DXF/CFD%20automation/)
+  - 0~360도까지, 10도 단위로 유속과 날개가 이루는 각을 바꾸어가며 날개가 받는 힘을 측정하는 코드. 
+  - 이 과정에서, 반복되는 작업을 pyautogui로 자동화하여 효율화시켰습니다.
+  - [fullauto.py](./Analysis%20Data%20and%20Code/Code%20and%20DXF/CFD%20automation/fullauto.py) : 완전히 자동화 시켜 0~360도까지 반복하며 데이터를 기록
+  - 이로써 36*4 = 144개의 CFD 데이터를 일관되게 얻었습니다.
+  - 작동 영상
+
+코드 실행부터 CFD 실행까지
+<img src="./Media/IMG_5808.gif" width = "600">
+CFD 실행 이후, 벽 계산기로 토크를 계산하는 과정 자동화
+<img src="./Media/IMG_5804.gif" width = "600">
 
 ## [아두이노 코드](./Arduino/)
 

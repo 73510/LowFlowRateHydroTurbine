@@ -12,7 +12,9 @@
 이 프로젝트는 저유속 환경에서 효율적으로 작동하는 접이식 날개 수차를 개발하는 것을 목표로 합니다.
 
 주요 구성 요소:
-- CFD 분석 데이터 💻
+- CFD 분석 데이터 & 코드 💻
+  - [CFD automation을 통한 시뮬레이션 과정 효율화](./HSC2023%20한화%20사이언스%20챌린지/Analysis%20Data%20and%20Code/Code%20and%20DXF/CFD%20automation/)
+  - [CFD 분석 결과를 통한 토크 최대화](./HSC2023%20한화%20사이언스%20챌린지/Analysis%20Data%20and%20Code/Code%20and%20DXF/Optimize_dxfV1.ipynb)
 - 아두이노 코드 🤖
 - 설계 파일 (3D 모델링, STL) 🖨️
 - 제출 자료 및 문서 📊
