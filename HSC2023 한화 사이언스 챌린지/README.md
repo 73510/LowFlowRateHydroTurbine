@@ -29,8 +29,11 @@ Computational Fluid Dynamics (CFD) 분석 및 최적화 관련 파일들이 이 
   - 작동 영상
 
 코드 실행부터 CFD 실행까지
+
 <img src="./Media/IMG_5808.gif" width = "600">
+
 CFD 실행 이후, 벽 계산기로 토크를 계산하는 과정 자동화
+
 <img src="./Media/IMG_5804.gif" width = "600">
 
 ## [아두이노 코드](./Arduino/)
